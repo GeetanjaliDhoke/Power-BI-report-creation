@@ -18,15 +18,15 @@ Each Power BI report generally includes:
 
 Reports Included
 
-1.Attendance Type Data
-2.Compliance Status Distribution Data
-3.Employee Data Report
-4.Error Count Over Time Data
-5.GIS Location Data
-6.Requirements Over Time Data
-7.Sales Reports
-8.Students Data Report
-9.Pizza Sales Report
+1.Attendance Type Data <br>
+2.Compliance Status Distribution Data<br>
+3.Employee Data Report<br>
+4.Error Count Over Time Data<br>
+5.GIS Location Data<br>
+6.Requirements Over Time Data<br>
+7.Sales Reports<br>
+8.Students Data Report<br>
+9.Pizza Sales Report<br>
 
 
 Skills Highlighted
